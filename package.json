@@ -1,0 +1,29 @@
+{
+  "name": "interactive-solar-system-gravity-exhibit",
+  "version": "1.0.0",
+  "description": "Interactive Solar System Orrery, N-Body Gravity Mechanics Sandbox, and Planetary Gravity Kiosk",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "threejs",
+    "solar-system",
+    "orrery",
+    "gravity",
+    "n-body-simulation",
+    "astronomy",
+    "physics",
+    "web-audio"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
